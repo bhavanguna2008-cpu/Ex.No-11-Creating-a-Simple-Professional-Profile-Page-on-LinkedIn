@@ -4,7 +4,7 @@ To understand the importance of a professional online presence and to create a s
 ## WHAT IS LINKEDIN?
 LinkedIn is a professional networking website used by students, faculty, and working professionals to showcase their education, skills, and experience; connect with peers and recruiters; and discover jobs, internships, and industry updates. A well-built LinkedIn profile acts like an online resume that is visible to the whole professional community, so it should be accurate, complete, and presented in a clean, readable format.
 ## TOOLS REQUIRED
-•	Web browser (Google Chrome / Microsoft Edge) or the LinkedIn mobile app
+•	Web browser (Google Chrome / Microsoft Edge) or the LinkedIn mobile app 
 •	A valid email ID or phone number, to register the LinkedIn account
 •	A recent, clear passport-size photograph for the profile picture
 •	A short write-up of education, skills, and experience prepared beforehand, to copy into the profile sections
